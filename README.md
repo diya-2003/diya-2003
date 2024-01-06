@@ -1,7 +1,7 @@
 ![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 <h1 align="center">Hi 👋, I'm Diya Maity</h1>
 <h3 align="center">A passionate Programmer from India</h3>
-<img align="right" alt="Coding" width="400"  src="https://komarev.com/ghpvc/?username=kavindiviranga&label=Profile%20views&color=0e75b6&style=flat" alt="kavindiviranga"/>
+<img align="right" alt="Coding" width="400"  src="https://i.pinimg.com/originals/06/ef/d9/06efd9fc18aade1ce5a7f80374b5ce61.gif"/>
 
 - 🌱 I’m currently learning **Java,Spring,Spring Boot**
 
