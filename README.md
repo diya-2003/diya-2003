@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Diya Maity</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding"3"/>
-<p align="left"> <img src=/> </p>
 
 - 🌱 I’m currently learning **Java,Spring,Spring Boot**
 
