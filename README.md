@@ -1,4 +1,4 @@
-![MasterHead](        https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
+![MasterHead](               https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 
 <h1 align="center">Hi 👋, I'm Diya Maity</h1>
 <h3 align="center">A passionate Programmer from India</h3>
